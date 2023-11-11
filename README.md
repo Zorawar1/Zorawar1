@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zorawar1
-- 👀 I’m interested in Javascript and html  
-- 🌱 I’m currently learning Jquery
+- 👀 I’m interested in Java, JS, & Python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me - zorawar.mundi@gmail.com  
 
 <!---
